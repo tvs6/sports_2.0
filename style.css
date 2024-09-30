@@ -39,7 +39,7 @@ a{
     width: 100%;
     border: 2px solid green;
     border-radius: 12px;
-    
+    margin-bottom: 20px;
     background-color: rgb(25, 54, 22);
     
     transition: 0.5s;

@@ -89,3 +89,31 @@ a{
     width: 60px;
     margin-bottom: 10px;
 }
+
+@media (max-width: 480px) {
+    .card{
+        height: 150px;
+    }
+
+    .t1{
+        width: 60px;
+        height: 60px;
+        border-radius: 80px;
+    }
+
+    .t2{
+        width: 60px;
+        height: 60px;
+        border-radius: 80px;
+    }
+
+    .vs{
+        width: 40px;
+        margin-bottom: 5px;
+    }
+
+    .card-des{
+        margin-top: -30px;
+    }
+
+}
